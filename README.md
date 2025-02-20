@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissDysart
 - 👀 I’m interested in data and gaming
-- 🌱 I’m currently learning about data analytics
+- 🌱 I’m currently working as a data analyst
 - 😄 Pronouns: she/her
 
 <!---
